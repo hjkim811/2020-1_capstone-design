@@ -1,5 +1,4 @@
 # 2020-1_capstone-design
-[2020-1] Data Mining Project for IMEN330 Course
 
 ## Topic
 Sentimental Analysis on COVID-19 Headline Keywords
@@ -13,12 +12,8 @@ Crawled 462,567 headlines from [NAVER news](https://news.naver.com/)
 [KNU 한국어 감성어 사전](http://dilab.kunsan.ac.kr/knusl.html)
 
 ## Sentiment Indicators
-<p align="center">
-  <img src="images/eq1.png" width="800">
-  <img src="images/eq2.png" width="800">
-</p>
-
-to be updated
+<img src="images/eq1.PNG" width="250">
+<img src="images/eq2.PNG" width="250">
 
 ## Data Flow
 <br />
@@ -44,10 +39,10 @@ to be updated
 <br />
 
 <p align="center">
-  <img src="images/4.jpg" width="400">
+  <img src="images/4.jpg" width="350">
 </p>
 
-## Result
+## Results
 
 ### Keyword Information
 <p align="center">
@@ -57,34 +52,35 @@ to be updated
 ### Sentiment Indicators
 
 <p align="center">
-  <img src="graph/Polarity.png" width="500">
-  <img src="graph/Subjectivity.png" width="500">
-  <img src="graph/Pos_Neg_Indicators.png" width="600">
+  <img src="graph/Polarity.png" width="400">
+  <img src="graph/Subjectivity.png" width="400">
+  <img src="graph/Pos_Neg_Indicators.png" width="400">
 </p>
 
 ### Word Cloud
+#### Period
 <p align="center">
-  <img src="graph/period_1.png" width="190">
-  <img src="graph/period_2.png" width="190">
-  <img src="graph/period_3.png" width="190">
-  <img src="graph/period_4.png" width="190">
-  <img src="graph/period_5.png" width="190">
+  <img src="graph/period_1.png" width="180">
+  <img src="graph/period_2.png" width="180">
+  <img src="graph/period_3.png" width="180">
+  <img src="graph/period_4.png" width="180">
+  <img src="graph/period_5.png" width="180">
 </p>
 
+#### Keywords
 <p align="center">
-  <img src="graph/wordcloud_keyword_1.png" width="190">
-  <img src="graph/wordcloud_keyword_2.png" width="190">
-  <img src="graph/wordcloud_keyword_3.png" width="190">
-  <img src="graph/wordcloud_keyword_4.png" width="190">
-  <img src="graph/wordcloud_keyword_5.png" width="190">
+  <img src="graph/wordcloud_keyword_1.png" width="180">
+  <img src="graph/wordcloud_keyword_2.png" width="180">
+  <img src="graph/wordcloud_keyword_3.png" width="180">
+  <img src="graph/wordcloud_keyword_4.png" width="180">
+  <img src="graph/wordcloud_keyword_5.png" width="180">
 </p>
 
+#### Sentiment Words
 <p align="center">
-  <img src="graph/wordcloud_senti_1.png" width="190">
-  <img src="graph/wordcloud_senti_2.png" width="190">
-  <img src="graph/wordcloud_senti_3.png" width="190">
-  <img src="graph/wordcloud_senti_4.png" width="190">
-  <img src="graph/wordcloud_senti_5.png" width="190">
+  <img src="graph/wordcloud_senti_1.png" width="180">
+  <img src="graph/wordcloud_senti_2.png" width="180">
+  <img src="graph/wordcloud_senti_3.png" width="180">
+  <img src="graph/wordcloud_senti_4.png" width="180">
+  <img src="graph/wordcloud_senti_5.png" width="180">
 </p>
-
-+ size, caption
