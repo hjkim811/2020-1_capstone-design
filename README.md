@@ -1,4 +1,4 @@
-# 2020-1_capstone-design
+# capstone-design
 
 ## Topic
 Sentimental Analysis on COVID-19 Headline Keywords
