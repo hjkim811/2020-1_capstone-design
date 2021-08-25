@@ -43,7 +43,6 @@ Crawled 462,567 headlines from [NAVER news](https://news.naver.com/)
 </p>
 
 ## Results
-
 ### Keyword Information
 <p align="center">
   <img src="graph/Keyword_Information.png" width="800">
