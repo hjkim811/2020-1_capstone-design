@@ -1,4 +1,4 @@
-# PPPD_COVID19-sentiment-analysis
+# PPPD_covid19-sentiment-analysis
 
 ## Topic
 Sentimental Analysis on COVID-19 Headline Keywords
